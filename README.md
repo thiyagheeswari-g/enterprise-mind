@@ -18,12 +18,12 @@ make playground        # Opens UI at http://localhost:18081
 ```
 
 ## Workflow
-<video src="assets/EnterpriseMind%20-%20Architecture.mp4" controls="controls" width="100%">
-  EnterpriseMind Animated Workflow.
+<video src="https://github.com/thiyagheeswari-g/enterprise-mind/raw/main/assets/EnterpriseMind%20-%20Architecture.mp4" controls="controls" width="100%">
 </video>
 
+
 ## Architecture
-![EnterpriseMind Architecture Diagram](assets/architecture_diagram.png)
+<img src="assets/architecture_diagram.png" alt="EnterpriseMind Architecture Diagram" width="70%">
 
 ## How to Run
 - Option 1: Open new terminal and enter: 
