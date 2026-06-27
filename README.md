@@ -16,11 +16,11 @@ cp .env.example .env   # Add your GOOGLE_API_KEY
 make install
 make playground        # Opens UI at http://localhost:18081
 ```
-## Assets
-![EnterpriseMind Cover Banner](assets/cover_page_banner.png)
 
 ## Workflow
-![EnterpriseMind Animated Workflow](assets/EnterpriseMind%20-%20Architecture.mp4)
+<video src="assets/EnterpriseMind%20-%20Architecture.mp4" controls="controls" width="100%">
+  EnterpriseMind Animated Workflow.
+</video>
 
 ## Architecture
 ![EnterpriseMind Architecture Diagram](assets/architecture_diagram.png)
