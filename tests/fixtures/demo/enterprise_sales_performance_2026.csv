@@ -1,0 +1,13 @@
+date,region,product,revenue,units_sold,customer_type
+2026-01-15,South India,Widget A,15000,100,New
+2026-01-20,North India,Widget B,22000,150,Repeat
+2026-02-10,South India,Widget A,12000,80,Repeat
+2026-02-15,North India,Widget B,24000,160,Repeat
+2026-03-05,South India,Widget A,8000,50,Repeat
+2026-03-25,North India,Widget A,18000,120,New
+2026-04-12,South India,Widget A,5000,30,Repeat
+2026-04-18,North India,Widget B,25000,170,Repeat
+2026-05-22,South India,Widget B,4000,20,Repeat
+2026-05-30,North India,Widget A,19000,130,New
+2026-06-15,South India,Widget A,2000,10,Repeat
+2026-06-28,North India,Widget B,26000,180,Repeat
