@@ -18,7 +18,7 @@ make playground        # Opens UI at http://localhost:18081
 ```
 
 ## Workflow
-<video src="https://github.com/thiyagheeswari-g/enterprise-mind/raw/main/assets/EnterpriseMind%20-%20Architecture.mp4" controls="controls" width="100%">
+<video src="assets/EnterpriseMind%20-%20Architecture.mp4" controls="controls" width="80%">
 </video>
 
 
