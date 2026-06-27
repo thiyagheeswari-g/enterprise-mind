@@ -17,11 +17,6 @@ make install
 make playground        # Opens UI at http://localhost:18081
 ```
 
-## Workflow
-<video src="assets/EnterpriseMind%20-%20Architecture.mp4" controls="controls" width="80%">
-</video>
-
-
 ## Architecture
 <img src="assets/architecture_diagram.png" alt="EnterpriseMind Architecture Diagram" width="70%">
 
